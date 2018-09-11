@@ -1,0 +1,3 @@
+FieldStorage(None, None, [MiniFieldStorage('a', 'b')])
+FieldStorage(None, None, [])
+FieldStorage(None, None, [MiniFieldStorage('ifttt', 'pressed')])
